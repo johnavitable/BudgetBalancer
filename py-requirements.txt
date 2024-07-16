@@ -10,5 +10,5 @@ faker
 prettytable
 waitress>=2.1.1
 gunicorn
-setuptools>=65.5.1
+setuptools>=70.0.0
 numpy>=1.22.2
